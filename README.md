@@ -1,10 +1,15 @@
  Social Media Links:
 
 YouTube: https://www.youtube.com/channel/UCFEOcYE1t5ubo3EGffv5ufw
+
 LinkedIn: https://www.linkedin.com/in/ahmed-tarek-ghourab-930512136/
+
 GitHub: https://github.com/Ahmedtgd
+
 Stack Overflow: https://stackoverflow.com/users/8582780/ahmed?tab=profile
+
 Twitter: https://twitter.com/ahmedtarek3885
+
 Phone and WhatsApp: +201069250607
 
 Dear Hiring Manager,
